@@ -1,0 +1,86 @@
+
+[
+    {
+    "name": "Adrian Vazquez", 
+    "position": "CEO", 
+    "email": "avazquez@notemail.com", 
+    "office": "555-555-2976", 
+    "img": "/images/vazquez.jpg"
+    },
+    {
+        "name": "Luca Lorenzo", 
+        "position": "CFO", 
+        "email": "llorenzo@notemail.com", 
+        "office": "555-555-3046", 
+        "img": "/images/lorenzo.jpg"
+        },
+        {
+        "name": "Dan Carey", 
+        "position": "Manager", 
+        "email": "dcarey@notemail.com", 
+        "office": "555-555-9393", 
+        "img": "/images/carey.jpg"
+        },
+        {
+            "name": "Brianna Doherty", 
+            "position": "HR Representative", 
+            "email": "bdoherty@notemail.com", 
+            "office": "555-555-2976", 
+            "img": "/images/doherty.jpg"
+            },
+            {
+            "name": "Sarah Walker", 
+            "position": "Lead Sales Representative", 
+            "email": "swalker@notemail.com", 
+            "office": "555-555-3046", 
+            "img": "/images/walker.jpg"
+        },
+            {
+            "name": "Gregory Marthas", 
+            "position": "Lead Accountant", 
+            "email": "gmarthas@notemail.com", 
+            "office": "555-555-9393", 
+            "img": "/images/carey.jpg"
+            }
+            ,
+            {
+            "name": "Amy Lar", 
+            "position": "Technical Sales Representative", 
+            "email": "alar@notemail.com", 
+            "office": "555-555-9441", 
+            "img": "/images/lar.jpg"
+            }
+            ,
+            {
+            "name": "Paul Tucker", 
+            "position": "Accountant", 
+            "email": "ptucker@notemail.com", 
+            "office": "555-555-7658", 
+            "img": "/images/tucker.jpg"
+            }
+            ,
+            {
+            "name": "Marcus Ryan", 
+            "position": "Electrical Engineer", 
+            "email": "mryan@notemail.com", 
+            "office": "555-555-1000", 
+            "img": "/images/ryan.jpg"
+            }
+            ,
+            {
+            "name": "Matteus Zapra", 
+            "position": "Lead Drafter", 
+            "email": "mzapra@notemail.com", 
+            "office": "555-555-9999", 
+            "img": "/images/zapra.jpg"
+            },
+            {
+            "name": "Fernando Cleff", 
+            "position": "Actuary Scientist", 
+            "email": "flceff@notemail.com", 
+            "office": "555-555-8111", 
+            "img": "/images/cleff.jpg"
+            }
+    
+]
+

@@ -1,0 +1,40 @@
+.img{
+border-radius: 8px;
+border: solid;
+border-style: solid;
+border-width: 2px;;
+width: 90%;
+}
+body{
+    background-color: #3a3a3a;
+}
+
+.card{
+    margin: 0 auto;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 8px;
+
+}
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 5vh;
+    
+}
+ul{
+    padding: 0;
+}
+.display-4{
+    font-size: 500%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hept{
+    border-radius: 10px;
+    width: 7%;
+}
+.subheader{
+    font-size: 5vh; 
+}
